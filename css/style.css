@@ -340,7 +340,7 @@ li, ul{
 
   .resumee{
     font-size: 24px;
-}
+  }
   .textResume{
     font-size:16px;
   }
@@ -395,7 +395,7 @@ li, ul{
     opacity: 1;
     overflow: hidden;
     
-}
+  }
 
   .foot{
     font-size: 30px;
@@ -406,18 +406,18 @@ li, ul{
     text-align: center;
    
 
-}
+  }
 
-.footText{
-  align-items: center;
-  justify-content: center;
-  padding-top: 50px;
-}
+  .footText{
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+  }
 
-#email{
-  width: 30px;
-  height: 20px;
-}
+  #email{
+    width: 30px;
+    height: 20px;
+  }
 
 
 }
